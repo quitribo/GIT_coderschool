@@ -1,1 +1,3 @@
-const nameTxt = document.getElementById("#name")
+// DOM
+const myName = document.querySelector("#name")
+myName.innerHTML = `Trung`
